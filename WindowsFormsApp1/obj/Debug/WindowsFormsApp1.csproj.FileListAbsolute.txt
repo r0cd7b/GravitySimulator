@@ -1,0 +1,18 @@
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sanggyun\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SpaceForm.resources
+C:\Users\Sanggyun\Desktop\중력 시뮬레이터\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sanggyun\Desktop\중력 시뮬레이터\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sanggyun\Desktop\중력 시뮬레이터\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Sanggyun\Desktop\중력 시뮬레이터\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SpaceForm.resources
+C:\Users\Sanggyun\Desktop\중력 시뮬레이터\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sanggyun\Desktop\중력 시뮬레이터\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Sanggyun\Desktop\중력 시뮬레이터\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sanggyun\Desktop\중력 시뮬레이터\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sanggyun\Desktop\중력 시뮬레이터\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
